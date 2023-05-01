@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanGill-UG&show_icons=true&theme=radical)
 
 <!--
