@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanGill-UG)](https://github.com/anuraghazra/github-readme-stats)
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanGill-UG&show_icons=true&theme=radical)
 
 <!--
 **UsmanGill-UG/UsmanGill-UG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
