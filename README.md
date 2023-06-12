@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<a href="https://www.linkedin.com/in/usmangill/" target="blank"><img align="center" src="linkedin.svg" height="100" /></a>
-<a href="https://twitter.com/usmangillx" target="blank"><img align="center" src="twitter.svg" height="100" /></a>
-<a href="https://www.instagram.com/usmangillx/" target="blank"><img align="center" src="instagram.svg" height="100" /></a>
-
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanGill-UG&show_icons=true&theme=radical)
 
 <!--
