@@ -5,15 +5,15 @@
 </div>
 
 
-
 <div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGill-UG&layout=compact" alt="Top Languages">
-  </div>
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=UsmanGill-UG&show_icons=true&theme=radical" alt="Usman's GitHub stats">
   </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGill-UG&layout=compact" alt="Top Languages">
+  </div>
 </div>
+
 
 
 <!--
