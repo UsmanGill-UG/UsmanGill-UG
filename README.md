@@ -1,6 +1,7 @@
-<a href="">
-  <img height="300" width="1000"src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif"/>
+<a href="" style="display: block; text-align: center;">
+  <img height="300" width="1000" src="https://media.giphy.com/media/zwPRprvrP4Lm0/giphy.gif" style="margin-left: auto; margin-right: auto;" />
 </a>
+
 
 
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanGill-UG&show_icons=true&theme=radical)
