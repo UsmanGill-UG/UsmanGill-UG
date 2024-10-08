@@ -1,26 +1,5 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://tenor.com/view/itachi-uchiha-itachi-anime-naruto-gif-4417373839003789029">
-    <img height="300" width="800" src="https://media.tenor.com/MwbSRE3GgfcAAAAC/itachi-uchiha-itachi.gif" alt="Itachi Uchiha GIF" />
+<div align="center">
+  <a href="https://giphy.com/gifs/uchiha-akatsuki-itachi-kN79e1NI1QErC">
+    <img height="500" width="700" src="https://media.giphy.com/media/kN79e1NI1QErC/giphy.gif" alt="Itachi Uchiha Giphy GIF" />
   </a>
 </div>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGill-UG&layout=compact" alt="Top Languages">
-</div>
-
-
-
-<!--
-**UsmanGill-UG/UsmanGill-UG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
