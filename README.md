@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;">
-  <a href="">
-    <img height="300" width="800" src="https://tenor.com/fqtMxMxkeBR.gif" />
+  <a href="https://tenor.com/view/itachi-uchiha-itachi-anime-naruto-gif-4417373839003789029">
+    <img height="300" width="800" src="https://media.tenor.com/MwbSRE3GgfcAAAAC/itachi-uchiha-itachi.gif" alt="Itachi Uchiha GIF" />
   </a>
 </div>
 
