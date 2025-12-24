@@ -1,14 +1,15 @@
 # Usman Gill
 
-👋 Hi! I'm Usman Gill, a Master's student in **Computer Science** at Tampere University with a specialization in **Software, Web, and Cloud**.
+AI & Data Engineer. I build data pipelines and occasionally "vibe code" full-stack apps for fun.
 
-🔭 I’m passionate about exploring new technologies and building innovative web and cloud-based solutions. Currently, I'm working on various projects using **React**, and **Node.js**.
+### 🛠 Tech
+* **Data:** Databricks, Python, SQL, Web Scraping.
+* **Web:** Next.js, React, Node.js.
 
-🌱 I’m always learning and improving, and I'm actively looking for exciting opportunities in software development, web, or cloud computing.
+### 🏗 Projects
+* **Professional:** Focusing on scalable data architectures and automation.
+* **Hobby:** Building niche web tools and personal use-case apps whenever a new idea hits.
 
-💬 Feel free to reach out to me if you'd like to collaborate on a project or discuss opportunities.
-
-📫 How to reach me: You can contact me on email: usman.gill@tuni.fi
-
----
-Looking forward to connecting!
+### 📫 Contact
+* **Email:** usman.gill@tuni.fi
+* **Study:** CS Master's @ Tampere University (Software, Web & Cloud)
