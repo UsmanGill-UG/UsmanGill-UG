@@ -1,7 +1,5 @@
 # Usman Gill
 
-AI & Data Engineer. I build data pipelines and occasionally "vibe code" full-stack apps for fun.
-
 ### 🛠 Tech
 * **Data:** Databricks, Python, SQL, Web Scraping.
 * **Web:** Next.js, React, Node.js.
